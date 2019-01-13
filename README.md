@@ -701,7 +701,7 @@ $ sudo ln -s ../sites-available/deploytest.conf deploytest.conf
 
 ## 接近尾声
 
->sudo supervisorct 进入supervisor的命令行
+>sudo supervisorctl 进入supervisor的命令行
 
 >输入reload重启以下
 
